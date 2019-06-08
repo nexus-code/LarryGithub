@@ -2,4 +2,4 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional
 
-**Miguel Ángel**, Git fan.
+**Miguel Ángel**, Git  && Larry Ploter fan
