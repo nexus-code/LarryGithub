@@ -2,4 +2,4 @@
 
 Un malvado hacker traspasa el firewall sembrando un kernel panic.
 
-Pero el malvado hacker resulta no ser tan malvado.
+Pero el malvado hacker resulta no ser tan malvado. Cambio en 00s branch
