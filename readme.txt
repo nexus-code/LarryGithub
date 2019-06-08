@@ -2,4 +2,4 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional
 
-**Miguel Ángel**
+**Miguel Ángel**, Git fan.
